@@ -1,4 +1,4 @@
-# Options Pricing Documentation
+**Options Pricing Documentation**
 
 Documentation
 -------------
